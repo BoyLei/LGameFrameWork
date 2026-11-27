@@ -1,0 +1,7 @@
+{
+  "name": "LGame.Game",
+  "rootNamespace": "LGameFramework",
+  "references": [
+    "LGameFramework.Runtime"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "LGameFramework.Runtime",
+  "rootNamespace": "LGameFramework",
+  "references": [
+    "Unity.Addressables",
+    "Unity.ResourceManager"
+  ]
+}

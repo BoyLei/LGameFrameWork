@@ -1,0 +1,12 @@
+{
+  "name": "LGameFramework.Editor",
+  "rootNamespace": "LGameFramework",
+  "references": [
+    "LGameFramework.Runtime",
+    "Unity.Addressables",
+    "Unity.Addressables.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
