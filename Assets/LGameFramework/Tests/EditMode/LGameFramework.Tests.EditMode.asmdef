@@ -1,0 +1,14 @@
+{
+  "name": "LGameFramework.Tests.EditMode",
+  "rootNamespace": "LGameFramework",
+  "references": [
+    "LGameFramework.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
